@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @Martin-e-k
-- ✨ I am a Bioinformatics researcher at InnovPlantProtect (InPP).
-- 🌱 At InPP we develop new biological alternatives to chemical pesticides and growth promoters.
-- 💞️ In collaboration with the awesome lab researchers, I study the genomic information of crops, pathogens, soils, and biological agents that can help farmers have high yields while decreasing the use of chemical compounds. Additionally, I develop and maintain data pipelines to increase the automation and reproducibility of our analysis.
-- 👀 Feel free to look through my repositories. I mainly work with Python, R, and Bash scripting. I have experience with high-performance computing and I am looking to improve my skills in workflow management using Snakemake or Nextflow.
-- 📫 If you find my profile interesting you can contact me at martin_e_k@hotmail.com or visit my LinkedIn www.linkedin.com/in/martin-enggaard-kristensen
+👋 Hi, I’m @Martin-e-k
+
+✨ I’m a Bioinformatician working with clinical genetics at the Department of Clinical Biochemistry, Amager & Hvidovre Hospital, Denmark
+
+🤝 Together with a skilled molecular biology team, I deliver genetic insights that support clinical decision-making
+
+🧬 I work at the interface of genomics, diagnostics, and data science, using tools like Python, R, Snakemake, and Bash scripting
+
+🛠️ As the responsible bioinformatician, I spend much of my time creating and validating data analysis pipelines — focusing on reliability, reproducibility, and ease of use for our lab technicians
+
+👶 A current area of interest is method development in non-invasive prenatal testing (NIPT) — improving test resolution, fetal fraction estimation, and reliability in dizygotic twin pregnancies
+
+👀 Feel free to look through my repositories
+
+📫 If you find my profile interesting, you can contact me at martin_e_k@hotmail.com or connect on LinkedIn
 
 
 <!---
