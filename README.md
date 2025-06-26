@@ -12,7 +12,7 @@
 
 👀 Feel free to look through my repositories
 
-📫 If you find my profile interesting, you can contact me at martin_e_k@hotmail.com or connect on LinkedIn
+📫 If you find my profile interesting, you can contact me at martin_e_k@hotmail.com or connect on LinkedIn www.linkedin.com/in/martin-enggaard-kristensen
 
 
 <!---
